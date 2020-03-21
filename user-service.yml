@@ -2,7 +2,7 @@ server:
   port: 8085
 spring:
   application:
-    name: user-service
+    name: user-services
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql:///leyou?characterEncoding=UTF-8
